@@ -1,0 +1,385 @@
+*{
+    padding: 0%;
+    margin: 0%;
+   
+    
+}
+body{
+    background-color: #efe5de;
+    
+}
+
+
+body h{
+    color: rgb(111, 78, 55);
+    font-weight:600;
+    font-family: 'Poppins', sans-serif;
+    padding-right: 29%; 
+    padding-left: 5px;
+    position: relative;
+    top: 10px; 
+
+}  
+.phone{
+    padding-left: 100px;
+}
+.mail{
+    padding-right: 10px;
+}
+.line{
+    margin-top: 30px;
+    margin-right: 5.8%;
+    margin-left: 4.2%;
+    border: 1px solid;
+
+}
+header img{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    top: 10px; 
+}
+.linkedin{
+    padding-right:10px;
+    border-right: 1px solid;
+    height: 20px;
+    width: 20px;
+}
+.instagram{
+    padding-right:10px;
+    border-right: 1px solid;
+    height: 20px;
+    width: 20px;
+}
+.facebook{
+    padding-right:10px;
+    height: 20px;
+    width: 20px;
+}
+.whole {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    background-color:rgb(111, 78, 55);
+    padding-right: 5%;
+    padding-bottom: 15px;
+    margin-right: 5.8%;
+    margin-left: 4.2%;
+}
+
+.right {
+    margin-left: auto; 
+    padding-left: 50;
+}
+
+.right ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+   
+    
+}
+
+.right ul li a {
+    color: white;
+    text-decoration: none;
+    padding-bottom: 50px;
+}
+
+.whites {
+    white-space: nowrap;
+}
+
+.icon {
+    width: 50px; 
+    height: 50px; 
+    padding-bottom: 8px;
+    padding-left: 75px;
+
+}
+.disc{
+    padding-left: 80px;
+}
+.welcome h1{
+    color: rgb(99,69,48);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 40px;
+    font-style: oblique 20deg;
+}
+.welcome h2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: oblique 20deg;
+
+}
+.university{
+    display: flex;
+    align-items: flex-start;
+    padding: 4% 6%;
+
+}
+.university img{
+    margin-right: 20px;
+    width: 400px;
+    height: 400px;
+}
+.word{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    padding-top: 4%;
+    font-size: large;
+    text-indent: 50px;
+    line-height: 1.8;
+} 
+.exper{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.exper1{
+    text-align: center;
+    font-style: italic;
+}
+.middle{
+    display: flex;
+    padding: 150px;
+    flex-direction: row;
+    padding-bottom: 100px; 
+    padding-left: 9%;
+}
+
+
+.projects{
+    padding: 90px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+.task{
+    padding: 90px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.techfriday{
+    padding: 90px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.topfont{
+    position: relative;
+    bottom: 475px;
+    color: white;
+    left: 95px;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    font-style: italic;
+}
+
+
+.middless{
+    display: flex;
+    padding: 150px;
+    flex-direction: row;
+    padding-bottom: 100px; 
+    padding-left: 9%;
+
+}
+.classroom{
+    padding: 90px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.Consistency{
+    padding: 90px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.process{
+    padding: 90px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.topfonts{
+    position: relative;
+    bottom: 475px;
+    color: white;
+    left: 95px;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    font-style: italic;
+}
+
+.xpresso{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 30px;
+    color: black;
+}
+
+.down{
+    padding:70px;
+    padding-left: 40%;
+    margin-right:35% ;
+}
+
+.text{
+    display: inline-block;
+    margin-bottom: 20%;
+        
+}
+.espresso{
+    position: relative;
+    padding: 20px;
+    
+}
+.caramelespresso{
+    text-indent: 30px;
+    display: flex;
+    text-align: center;
+    padding:6%;
+}   
+.espresso h{
+    position: relative;
+    top: -150px;
+}
+.down1{
+    padding-left: 40%;
+    position: relative;
+    top: -80px;
+    margin: 0px;
+}
+.affogatotext{
+    text-indent: 30px;
+    text-align: center;
+    padding:6%;
+    display:inline-flex;
+    word-wrap: none;
+
+
+}
+.espresso1{
+    position: relative;
+    top: -90px;
+    left: -30%;
+    padding:0;
+}
+.form{
+    margin-right: 64%;
+    
+}
+.lines{
+    border: 1px solid;
+    position: relative;
+    top:-150px;
+    margin-top: 30px;
+    margin-right: 5.8%;
+    margin-left: 4.2%;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.container div{
+    width: 25%;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.container h{
+    padding-left: 20px;
+}
+.whole1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    position: relative;
+    top:-100px;
+}
+.Contactus form{
+   padding:06%;
+   display: flex;
+   flex-direction: column;
+   gap: 5px;
+   width: 20%;
+
+}
+.apt{
+    display: flex;
+    justify-content: space-around;
+}
+.mytext{
+    height: 30px;
+    border-radius: 10px;
+}
+.drop{
+    height:200px;
+    width: 600px;
+    border-radius: 10px;
+}
+.button{
+    width:100px;
+    height:30px;
+    background-color: black;
+    color: azure;
+    border-radius: 10px;
+}
+.ko {
+    display: flex;
+    flex-direction: column;
+    gap:100px;
+    padding-top: 100px;
+
+
+}
+.lines3{
+   margin: 20px;
+    margin-right: 5.8%;
+    margin-left: 4.2%;
+    border: 1px solid;
+}
+.lines2{
+    border: 1px solid;
+    margin-right: 5.8%;
+    margin-left: 4.2%;
+}
+.Contactus div h1{
+    text-align: center;
+    padding-top: 40px;
+}
+.whole3{
+    background-color:rgb(60,42,30);
+    color: white;
+    margin-left:4.2%;
+    margin-right: 5.2%;
+    float: bottom;
+    
+    
+}
+.whole3 img{
+    padding: 20px;
+    padding-left: 100px;
+    position: relative;
+    bottom: -60px;
+
+}
+.whole3 div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 400px;
+    padding-bottom: 100px;
+    
+}
+.whole3 h2{
+    color:rgb(156,70,10);
+}
